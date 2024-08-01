@@ -1,0 +1,2 @@
+the problem was in make re
+maybe also cc was writen CC
